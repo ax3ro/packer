@@ -1,0 +1,46 @@
+This script is made entirely out of javascript, here is how to use it
+
+First, you need to have the script provided in your clipboard
+
+Then, you can go to any website that allows inspect element
+
+Next, you can right click, inspect > console
+
+Or, you can just do Ctrl Shift + I
+
+Then, once you are in the console, paste in the script in the [market.js] file
+
+Once you click enter, it should give you the name of the blooks you got.
+
+If you are on a school computer, here is a tutorial on how to use the script
+
+first, when you are in a website, type in: javascript:{script}
+
+or, you can use the bookmarklet method, by creating a bookmark, and then in the URL, put in javascript: then paste in the script
+
+then click "Done"
+
+once you click on the bookmarklet once it is done, it should give an alert on what blook you got
+
+the last,  quickest method is:
+
+go to deobfuscate.io
+
+then, deobfuscate the script
+
+next, go to obfuscator.io
+
+then obfuscate the script and click "Evaluate"
+
+then, it should be done.
+
+
+note, that the only blooks available are not from a certain pack, these blooks are:
+
+Common blook (99%)
+
+Rare blook (25%) 
+
+Epic blook (5%) 
+
+Legendary blook (1%)
