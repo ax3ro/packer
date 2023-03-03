@@ -14,7 +14,7 @@ Once you click enter, it should give you the name of the blooks you got.
 
 If you are on a school computer, here is a tutorial on how to use the script
 
-first, when you are in a website, type in: javascript:{script}
+first, when you are in a website, type in: javascript:{script} in the URL text box
 
 or, you can use the bookmarklet method, by creating a bookmark, and then in the URL, put in javascript: then paste in the script
 
